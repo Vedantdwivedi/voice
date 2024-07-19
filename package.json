@@ -30,6 +30,7 @@
     "tailwind-merge": "^2.3.0",
     "tailwindcss-animate": "^1.0.7",
     "ts-pattern": "^5.1.2"
+    "hume": "^1.0.0" // Added this line
   },
   "devDependencies": {
     "@types/node": "^20",
