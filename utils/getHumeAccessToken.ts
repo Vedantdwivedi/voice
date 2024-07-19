@@ -16,7 +16,7 @@
 
 import 'server-only';
 import { fetchAccessToken } from "@humeai/voice";
-import { Hume, HumeClient } from 'hume';
+import { Hume, HumeClient } from '@humeai/voice';
 
 export const getHumeAccessToken = async () => {
   const accessToken = await fetchAccessToken({
